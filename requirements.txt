@@ -13,6 +13,7 @@ safetensors
 einops
 pydantic
 ray
+timm
 sentencepiece
 google
 protobuf
